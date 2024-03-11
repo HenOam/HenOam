@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenOam
 - 👀 I’m interested in learning more python, C#, JS, HTML and CSS
-- 🌱 I’m currently learning basics of Python, C#, JS, HTML and CSS
+- 🌱 I’m currently learning basics of Python, R, C#, JS, HTML and CSS
 - 💞️ I’m looking to collaborate on a number of software development projects for Juniors like me
 - 📫 You can reach me through my email address, henryoamen@gmail.com
 
